@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraController_V2.js">
+    <Files>
+      <File FileName="Assets/Scripts/textTest.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MosquitoArena.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CameraController_V2.js" Line="18" Column="31" />
+      <File FileName="Assets/Scripts/House.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/miniGame1_Player.js" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Factory.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

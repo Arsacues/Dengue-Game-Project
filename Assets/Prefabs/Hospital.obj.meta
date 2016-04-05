@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: b1d8094f7f9eb41b7bf7758b8d395487
+timeCreated: 1452790574
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Back_Windows
+    100002: Front_windows
+    100004: H
+    100006: HCircile
+    100008: //RootNode
+    100010: Left_windows
+    100012: Left_windows2
+    100014: Main_Building
+    100016: Main_Building2
+    100018: Pilar_1
+    100020: Pilar_2
+    100022: RedBox
+    100024: RedBox2
+    100026: Roo2
+    100028: Roof
+    100030: Roof_Door1
+    100032: Roof_Door1_Cap
+    100034: Roof_Door2
+    100036: Roof_Door2_Cap
+    100038: White_Roof1
+    100040: White_Roof2
+    400000: Back_Windows
+    400002: Front_windows
+    400004: H
+    400006: HCircile
+    400008: //RootNode
+    400010: Left_windows
+    400012: Left_windows2
+    400014: Main_Building
+    400016: Main_Building2
+    400018: Pilar_1
+    400020: Pilar_2
+    400022: RedBox
+    400024: RedBox2
+    400026: Roo2
+    400028: Roof
+    400030: Roof_Door1
+    400032: Roof_Door1_Cap
+    400034: Roof_Door2
+    400036: Roof_Door2_Cap
+    400038: White_Roof1
+    400040: White_Roof2
+    2300000: Back_Windows
+    2300002: Front_windows
+    2300004: H
+    2300006: HCircile
+    2300008: Left_windows
+    2300010: Left_windows2
+    2300012: Main_Building
+    2300014: Main_Building2
+    2300016: Pilar_1
+    2300018: Pilar_2
+    2300020: RedBox
+    2300022: RedBox2
+    2300024: Roo2
+    2300026: Roof
+    2300028: Roof_Door1
+    2300030: Roof_Door1_Cap
+    2300032: Roof_Door2
+    2300034: Roof_Door2_Cap
+    2300036: White_Roof1
+    2300038: White_Roof2
+    3300000: Back_Windows
+    3300002: Front_windows
+    3300004: H
+    3300006: HCircile
+    3300008: Left_windows
+    3300010: Left_windows2
+    3300012: Main_Building
+    3300014: Main_Building2
+    3300016: Pilar_1
+    3300018: Pilar_2
+    3300020: RedBox
+    3300022: RedBox2
+    3300024: Roo2
+    3300026: Roof
+    3300028: Roof_Door1
+    3300030: Roof_Door1_Cap
+    3300032: Roof_Door2
+    3300034: Roof_Door2_Cap
+    3300036: White_Roof1
+    3300038: White_Roof2
+    4300000: Back_Windows
+    4300002: Front_windows
+    4300004: H
+    4300006: HCircile
+    4300008: Left_windows
+    4300010: Left_windows2
+    4300012: Main_Building
+    4300014: Main_Building2
+    4300016: Pilar_1
+    4300018: Pilar_2
+    4300020: RedBox
+    4300022: RedBox2
+    4300024: Roo2
+    4300026: Roof
+    4300028: Roof_Door1
+    4300030: Roof_Door1_Cap
+    4300032: Roof_Door2
+    4300034: Roof_Door2_Cap
+    4300036: White_Roof1
+    4300038: White_Roof2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

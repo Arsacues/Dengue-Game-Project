@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: a7e3d73ec5fefa44f9bd1a4f496b00d2
+labels:
+- happy
+- summer
+- joy
+- happiness
+- music
+- soundtrack
+- soderberg
+- sun
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 1
+    sampleRateSetting: 0
+    sampleRateOverride: 0
+    compressionFormat: 0
+    quality: 0
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 1
+  loadInBackground: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
